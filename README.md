@@ -5,4 +5,4 @@
 
    生成的身份证号仅用于测试需要，因非法用途而产生的法律纠纷，须由使用者自行承担！
 
-[Demo地址点我](https://wangqunsong.github.io/IDcard_generation/IDcard_generation.html)
+[Demo地址点我](https://lhx6538665.github.io/IDcard_generation/IDcard_generation.html)
